@@ -1,0 +1,38 @@
+*.Rdata
+
+# R-specific
+*.Rproj.user/
+*.Rhistory
+.RData
+.Rproj
+
+# R package specific
+.Rcheck/
+man/*.Rd
+NAMESPACE
+
+# Temporary files
+*.bak
+*.csv~
+*.html
+*.pdf
+
+# RMarkdown-specific
+*.knit.md
+*_cache/
+*_files/
+
+# R Markdown Notebook
+*.nb.html
+
+# RStudio Project Files
+*.Rproj
+
+# R Environment Variables
+.Renviron
+
+# R dcf file
+DESCRIPTION.meta
+
+# Mac-specific
+.DS_Store
