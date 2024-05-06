@@ -1,2 +1,4 @@
 Git is super
 Git is cool
+git is super duper
+git is uncool and lame
