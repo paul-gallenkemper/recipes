@@ -25,7 +25,7 @@ amount_of_sugar <- sample(dice, 1)
 
 You need to put {{amount_of_sugar}} grams in a cup.
 
-# **step 3** 
+# **step 3**
 
 Then add some water :)
 
