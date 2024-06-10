@@ -25,6 +25,10 @@ amount_of_sugar <- sample(dice, 1)
 
 You need to put {{amount_of_sugar}} grams in a cup.
 
+# **step 3** 
+
+Then add some water :)
+
 ## Photo of result
 
 ![Zucker](https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg)\]
